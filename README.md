@@ -1,4 +1,4 @@
 # test13
 Test13
 
-This project for learning for version Control 
+This project for learning version Control 
